@@ -18,6 +18,7 @@ torchtext
 torchaudio
 torchdata
 networkx
+bs4
 
 # PyTorch Korea Theme
 pytorch-sphinx-theme@https://github.com/PyTorchKorea/pytorch_sphinx_theme/archive/master.zip
