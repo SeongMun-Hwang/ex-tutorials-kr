@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-적대적 예제 생성(Adversarial Example Generation)
+김성욱 적대적 예제 생성(Adversarial Example Generation)
 ====================================================
 
 **저자:** `Nathan Inkawhich <https://github.com/inkawhich>`__
 **번역:** `BONGMO KIM <https://github.com/bongmo>`__
+**
 
 이 글을 읽고 있다면, 여러분은 이미 머신러닝 모델이 얼마나 효과적인지 그 진가를 알고 있을 것입니다.
 머신 러닝 연구는 ML(Machine Learning) 모델을 더욱 빠르고 정확하며 효율적이게 하는 방향으로 진행 되고 있습니다.
