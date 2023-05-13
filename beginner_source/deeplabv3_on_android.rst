@@ -1,7 +1,7 @@
 안드로이드에서의 이미지 분할 DeepLapV3
 =================================================
 
-**저자**: `Jeff Tang <https://github.com/jeffxtang>`_
+**저자**: `joo h, Jeff Tang <https://github.com/jeffxtang>`_
 
 **감수**: `Jeremiah Chung <https://github.com/jeremiahschung>`_
 **번역**: `김현길 <https://github.com/des00>`_
