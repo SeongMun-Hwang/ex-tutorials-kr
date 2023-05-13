@@ -109,7 +109,7 @@ sphinx_gallery_conf = {
     'examples_dirs': ['beginner_source', 'intermediate_source',
                       'advanced_source', 'recipes_source', 'prototype_source'],
     'gallery_dirs': ['beginner', 'intermediate', 'advanced', 'recipes', 'prototype'],
-    'filename_pattern': re.compile(SPHINX_SHOULD_RUN),
+#    'filename_pattern': re.compile(SPHINX_SHOULD_RUN),
     'promote_jupyter_magic': True,
     'backreferences_dir': None,
     'first_notebook_cell': ("# Google Colab에서 노트북을 실행하실 때에는 \n"
