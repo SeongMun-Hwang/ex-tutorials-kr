@@ -3,7 +3,7 @@ Multi-GPU Training <ddp_series_multigpu.html>`__ \|\| `Fault
 Tolerance <ddp_series_fault_tolerance.html>`__ \|\| `Multi-Node
 training <../intermediate/ddp_series_multinode.html>`__ \|\| `minGPT Training <../intermediate/ddp_series_minGPT.html>`__
 
-Distributed Data Parallel in PyTorch - Video Tutorials
+한규원 Distributed Data Parallel in PyTorch - Video Tutorials
 ======================================================
 
 Authors: `Suraj Subramanian <https://github.com/suraj813>`__
