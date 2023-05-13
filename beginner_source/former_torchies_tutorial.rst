@@ -1,4 +1,4 @@
-Torch 사용자를 위한 PyTorch
+조민재 : Torch 사용자를 위한 PyTorch
 ------------------------------
 **Author**: `Soumith Chintala <http://soumith.ch>`_
   **번역**: `박정환 <http://github.com/9bow>`_
